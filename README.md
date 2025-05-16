@@ -1,14 +1,14 @@
 Hi 👋 My name is Godwin Shibu
 =============================
 
-Web Developer and Designer
+Analyst and Dev
 --------------------------
 
 I'm a budding web developer and 3D model designer. I've been working with computers since I was a kid, and I absolutely love the challenge of creating something new. I have a strong background in web development. I'm comfortable working with HTML, CSS, JavaScript, and other coding languages. I enjoy the challenge of creating a website from scratch, and I'm always eager to learn new technologies.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [godwinshibu01@gmail.com](mailto:godwinshibu01@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Blockchain and web3 based projects
 
 ### Skills
